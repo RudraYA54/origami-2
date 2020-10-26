@@ -1,0 +1,16 @@
+h1{
+    color: red 
+}
+
+.heading{
+    background-color: black;
+    text-align:center
+}
+.flamingo{
+    background-color: darkorange;
+    display: flex;
+    justify-content: center;
+}
+.how{
+    text-align: center;
+}
